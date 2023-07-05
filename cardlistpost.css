@@ -58,7 +58,7 @@
 }
 
 #recent-posts>.recent-post-item>.recent-post-info>.article-title {
-    -webkit-line-clamp: 1;
+    -webkit-line-clamp: 2;
     margin-top: .3rem;
     margin-bottom: .3rem;
     color: var(--text-highlight-color);
@@ -66,9 +66,9 @@
     line-height: 1.4
 }
 
-#recent-posts>.recent-post-item>.recent-post-info>.article-meta-wrap {
+/* #recent-posts>.recent-post-item>.recent-post-info>.article-meta-wrap {
     margin-bottom: 1rem
-}
+} */
 
 @media screen and (max-width:768px) {
     #recent-posts>.recent-post-item {
