@@ -16,7 +16,7 @@
     margin-top: 1rem;
     display: flex;
     height: auto;
-    width: 49%
+    width: calc(50% - 10px)
 }
 
 #recent-posts>.recent-post-item .post_cover {
