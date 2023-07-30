@@ -1493,6 +1493,180 @@
         ]
     },
 
+    "Bilibili-GIF": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b01.gif\">",
+                "text": "b01"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b02.gif\">",
+                "text": "b02"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b03.gif\">",
+                "text": "b03"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b04.gif\">",
+                "text": "b04"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b05.gif\">",
+                "text": "b05"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b06.gif\">",
+                "text": "b06"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b07.gif\">",
+                "text": "b07"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b08.gif\">",
+                "text": "b08"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b09.gif\">",
+                "text": "b09"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b10.gif\">",
+                "text": "b10"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b11.gif\">",
+                "text": "b11"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b12.gif\">",
+                "text": "b12"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b13.gif\">",
+                "text": "b13"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b14.gif\">",
+                "text": "b14"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b15.gif\">",
+                "text": "b15"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b16.gif\">",
+                "text": "b16"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b17.gif\">",
+                "text": "b17"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b18.gif\">",
+                "text": "b18"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b19.gif\">",
+                "text": "b19"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b20.gif\">",
+                "text": "b20"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b21.gif\">",
+                "text": "b21"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b22.gif\">",
+                "text": "b22"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b23.gif\">",
+                "text": "b23"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b24.gif\">",
+                "text": "b24"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b25.gif\">",
+                "text": "b25"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b26.gif\">",
+                "text": "b26"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b27.gif\">",
+                "text": "b27"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b28.gif\">",
+                "text": "b28"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b29.gif\">",
+                "text": "b29"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b30.gif\">",
+                "text": "b30"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b31.gif\">",
+                "text": "b31"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b32.gif\">",
+                "text": "b32"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b33.gif\">",
+                "text": "b33"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b34.gif\">",
+                "text": "b34"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b35.gif\">",
+                "text": "b35"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b36.gif\">",
+                "text": "b36"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b37.gif\">",
+                "text": "b37"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b38.gif\">",
+                "text": "b38"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b39.gif\">",
+                "text": "b39"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b40.gif\">",
+                "text": "b40"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b41.gif\">",
+                "text": "b41"
+            },
+            {
+                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/Gavin-Meskin-Chen/BlogData/Emotion/Bilibili/b42.gif\">",
+                "text": "b42"
+            }        
+        ]
+    },
+
     "Bilibili": {
         "type": "image",
         "container": [
