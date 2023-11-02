@@ -1,0 +1,23 @@
+{
+  "name": "cansin-blogdata",
+  "version": "3.0.2",
+  "description": "cansin blog static files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gavin-Meskin-Chen/BlogData.git"
+  },
+  "keywords": [
+    "cansin",
+    "static"
+  ],
+  "author": "gavin_chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gavin-Meskin-Chen/BlogData/issues"
+  },
+  "homepage": "https://github.com/Gavin-Meskin-Chen/BlogData#readme"
+}
