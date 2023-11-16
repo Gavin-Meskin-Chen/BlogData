@@ -1,6 +1,6 @@
 {
   "name": "cansin-blogdata",
-  "version": "3.0.19",
+  "version": "3.0.20",
   "description": "cansin blog static files",
   "main": "index.js",
   "scripts": {
