@@ -258,17 +258,6 @@ template {
   transition: filter 375ms ease-in 0.2s, transform 0.6s;
   object-fit: cover;
 }
-.imgHover:hover,
-.error404 #error-wrap .error-content .error-img img:hover,
-.article-sort-item-img img:hover,
-#recent-posts > .recent-post-item .post_cover img.post_bg:hover,
-#aside-content .aside-list > .aside-list-item .thumbnail > img:hover {
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
-}
 .postImgHover:hover img,
 #pagination .prev-post:hover img,
 #pagination .next-post:hover img,
@@ -276,11 +265,6 @@ template {
   opacity: 0.4;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
   filter: alpha(opacity=40);
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
 }
 .postImgHover img,
 #pagination .prev-post img,
@@ -1347,7 +1331,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: HarmonyOS_Regular, webfont, "PingFang SC", Microsoft YaHei, BlinkMacSystemFont, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "Microsoft JhengHei", sans-serif;
+  font-family: PingFang SC, HarmonyOS_Regular, webfont, Microsoft YaHei, BlinkMacSystemFont, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "Microsoft JhengHei", sans-serif;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -2516,13 +2500,6 @@ figure.highlight pre .javascript .function {
     height: auto;
   }
 }
-#recent-posts > .recent-post-item:hover img.post_bg {
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
-}
 #recent-posts > .recent-post-item.ads-wrap {
   display: block !important;
   height: auto !important;
@@ -2566,8 +2543,10 @@ figure.highlight pre .javascript .function {
 }
 #recent-posts > .recent-post-item >.recent-post-info > .article-title {
   color: var(--text-highlight-color);
-  font-size: 1.72em;
+  font-size: 1.2em;
   line-height: 1.4;
+  margin: 0.3em 0;
+  font-weight: bold;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
@@ -2577,6 +2556,7 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (max-width: 768px) {
   #recent-posts > .recent-post-item >.recent-post-info > .article-title {
+    font-size: 1.1em;
     -webkit-line-clamp: 2;
   }
 }
@@ -6375,7 +6355,7 @@ blockquote.pullquote.right {
   #about-page .about-statistic {
     min-height: 380px;
     width: calc(50% - 0.5rem);
-    background: url(https://registry.npmmirror.com/cansin-blogdata/latest/files/img/202311151434510.webp) no-repeat top;
+    background: url(https://cdn.cbd.int/cansin-blogdata@3.0.52/img/202311151434510.webp) no-repeat top;
     background-size: cover;
     color: #fff;
     overflow: hidden;
@@ -6901,7 +6881,7 @@ blockquote.pullquote.right {
   }
   
   .author-content-item.like-technology {
-    background: url(https://registry.npmmirror.com/cansin-blogdata/latest/files/img/OxvZXD.webp) no-repeat;
+    background: url(https://cdn.cbd.int/cansin-blogdata@3.0.52/img/OxvZXD.webp) no-repeat;
     background-size: cover;
     min-height: 230px;
     color: #fff;
