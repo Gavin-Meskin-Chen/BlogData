@@ -1484,6 +1484,11 @@ blockquote {
   border: 1px solid var(--gavin-border-color);
   background-color: var(--article-card);
   border-radius: 8px;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  transition: 0.3s;
 }
 blockquote footer cite:before {
   padding: 0 5px;
@@ -5071,6 +5076,11 @@ details.folding-tag summary:hover:after {
 }
 details.folding-tag > summary {
   background: var(--article-card);
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  transition: 0.3s;
 }
 details.folding-tag > div.content {
   padding: 16px;
@@ -5341,9 +5351,6 @@ details.folding-tag summary>h6 {
 }
 #article-container .fj-gallery {
   margin: 0 0 16px;
-  opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-  filter: alpha(opacity=0);
 }
 #article-container .fj-gallery .img-alt {
   display: none;
@@ -6267,6 +6274,11 @@ blockquote.pullquote.right {
   -webkit-justify-content: center;
   justify-content: center;
   background: var(--article-card);
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  -ms-transition: 0.3s;
+  transition: 0.3s;
   border-bottom: 1px solid var(--gavin-border-color);
 }
 #article-container .tabs > .nav-tabs > .tab {
