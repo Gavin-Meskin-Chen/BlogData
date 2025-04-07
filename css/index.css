@@ -4179,7 +4179,7 @@ h1.page-title + .tag-cloud-list {
   -webkit-justify-content: space-between;
   justify-content: space-between;
   gap: 20px;
-  margin: 20px 0;
+  margin: 40px 0 0;
 }
 #post .tag_share .post-meta__tag-list {
   display: -webkit-box;
@@ -4293,7 +4293,7 @@ h1.page-title + .tag-cloud-list {
 }
 #post .post-copyright {
   position: relative;
-  margin: 40px 0 10px;
+  margin: 20px 0 0;
   padding: 10px 16px;
   border: 1px solid var(--gavin-border-color);
   -webkit-transition: box-shadow 0.3s ease-in-out;
