@@ -3850,7 +3850,7 @@ h1.page-title + .tag-cloud-list {
 }
 #nav .menus_items .menus_item .menus_item_child li a {
   display: block;
-  padding: 0 16px;
+  padding: 0 14px;
   width: 100%;
   color: var(--font-color) !important;
   text-shadow: none !important;
@@ -4140,7 +4140,7 @@ h1.page-title + .tag-cloud-list {
   transition: filter 375ms ease-in 0.2s;
 }
 #article-container p {
-  margin: 0.85rem 0 0.85rem;
+  margin: 1rem 0 1rem;
 }
 #article-container iframe {
   margin: 0 0 20px;
@@ -4168,11 +4168,11 @@ h1.page-title + .tag-cloud-list {
 }
 #article-container ol li,
 #article-container ul li {
-  margin: 4px 0;
+  margin: 0.5rem 0;
 }
 #article-container ol p,
 #article-container ul p {
-  margin: 8px 0 8px;
+  margin: 0.5rem 0 0.5rem;
 }
 #article-container > :last-child {
   margin-bottom: 0 !important;
@@ -6517,16 +6517,20 @@ blockquote.pullquote.right {
   background-color: rgba(103,194,58,0.13);
 }
 #article-container blockquote.red {
-  border-color: rgba(245,108,108,0.5);
-  background-color: rgba(245,108,108,0.13);
+  border-color: rgba(255,48,55,0.5);
+  background-color: rgba(255,48,55,0.13);
 }
 #article-container blockquote.blue {
   border-color: rgba(0,136,255,0.5);
   background-color: rgba(0,136,255,0.13);
 }
 #article-container blockquote.orange {
-  border-color: rgba(230,162,60,0.5);
-  background-color: rgba(230,162,60,0.13);
+  border-color: rgba(255,181,55,0.5);
+  background-color: rgba(255,181,55,0.13);
+}
+#article-container blockquote.purple {
+  border-color: rgba(169,94,210,0.5);
+  background-color: rgba(169,94,210,0.13);
 }
 #article-container .reference a {
   font-size: 75%;
